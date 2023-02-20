@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886123658854",
+    "project_id": "crud-memo",
+    "storage_bucket": "crud-memo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886123658854:android:a6aa8a41db94c55491b7a7",
+        "android_client_info": {
+          "package_name": "com.example.crud_memo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886123658854-54h3mkbhehvbpo152pu5h26nfrprhmgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoo0xek77LDfJifYyyad7hsNxHoc7HCNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886123658854-54h3mkbhehvbpo152pu5h26nfrprhmgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
